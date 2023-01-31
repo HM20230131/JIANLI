@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)https://a2194761639.rth1.one/jianli.html -->
+<html lang="zh-CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>my简历</title>
+  </head>
+
+  <body>
+   
+    <h1
+      style="
+        display: block;
+        background-color: rgb(243, 247, 232);
+        max-width: 900px;
+        width: 200 auto;
+        height:40px;
+        margin: 30px; auto;
+        padding: 60px;color: rgb(200, 14, 132);
+      "
+    >
+      HM简历
+    </h1>
+    <div
+      style="display: block;
+        background-color: rgb(238, 231, 237);
+        max-width: 900px;
+        width: 200 auto;
+        height: 300px;
+        margin: 30px; auto;
+        padding: 60px;"
+    >
+      <p style="color: blueviolet">简介:在读医学生</p>
+      <p style="color: brown">院校：贵州医科大学</p>
+      <p>专业：临床医学</p>
+      <p style="color: brown">兴趣爱好；旅游，运动</p>
+      <p></p>
+    </div>
+    <div>
+      <h3
+        style="
+        display: block;
+        background-color: rgb(245, 245, 245);
+        max-width: 900px;
+        width: 200 auto;
+        height50px;
+        margin: 50px; auto;
+        padding: 60px;color: rgb(33, 12, 255);
+      "
+      >
+        <a href="https://space.bilibili.com/394914244" target="_blank" >我的bilibili </a> <br>
+        <a href="https://mail.qq.com/cgi-bin/frame_html?sid=OZ5YIUZhANEIhAZl&r=37c939265bd6ef14431c9c47e51f05dd&lang=zh" target="_blank">请从这里给我发邮件</a> <br>
+		<a href="https://a2194761639.rth1.one">返回首页</a>
+      </h3>
+      
+  </body>
+</html>
